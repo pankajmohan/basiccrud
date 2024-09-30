@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basiccrud/static/css/main.d76e1f21.css",
+    "main.js": "/basiccrud/static/js/main.36be5322.js",
+    "static/js/488.c7fe8cb0.chunk.js": "/basiccrud/static/js/488.c7fe8cb0.chunk.js",
+    "index.html": "/basiccrud/index.html",
+    "main.d76e1f21.css.map": "/basiccrud/static/css/main.d76e1f21.css.map",
+    "main.36be5322.js.map": "/basiccrud/static/js/main.36be5322.js.map",
+    "488.c7fe8cb0.chunk.js.map": "/basiccrud/static/js/488.c7fe8cb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76e1f21.css",
+    "static/js/main.36be5322.js"
+  ]
+}
